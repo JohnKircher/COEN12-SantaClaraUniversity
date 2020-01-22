@@ -1,0 +1,11 @@
+	Big O Run Times
+	----------------------------
+	createDataSet() = O(n)
+	destroyDataSet() = O(n)
+	searchID() = O(1)
+	insertion() = O(1)
+	deletion() = O(1)
+	
+	My implementation used an array where the index is equal to the student ID for application 2,
+	(also known as direct hashing). I felt this was easiest implementation as direct hashing is more 
+	efficient if I am looking at a specific index that maps to a unqiue student ID.

@@ -1,0 +1,11 @@
+	Big O Run Times
+	--------------------------
+	createDataSet() = O(n)
+	destroyDataSet() = O(n)
+	searchAge() = O(1)
+	insertion() = O(1)
+	deletion() = O(n)
+	maxAgeGap() = O(n)
+
+	My Implementation used an array of linked lists for application #1.
+		
