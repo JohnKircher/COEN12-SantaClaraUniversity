@@ -1,0 +1,22 @@
+	Report.txt file: John Kircher - COEN 12 LAB
+
+	Unique				Avergae Real Time
+	------				-----------------
+					Part1		Part2	
+	Bible.txt			0.115s		0.112s
+	GreenEggsAndHam.txt		0.012s		0.011s
+	TreasureIsland.txt		0.024s		0.021s
+
+	Parity
+	------
+					Part1		Part2
+	Bible.txt			0.267s		0.234s	
+	GreenEggsAndHam.txt		0.012s		0.011s
+	TreasureIsland.txt		0.034s		0.027s
+
+	Counts
+	------
+					Part1		Part2
+	Bible.txt			N/A		0.182s	
+	GreenEggsAndHam.txt		N/A		0.012s
+	TreasureIsland.txt		N/A		0.049s
