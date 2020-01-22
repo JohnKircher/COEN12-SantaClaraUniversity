@@ -1,0 +1,31 @@
+Report.txt file: John Kircher - COEN 12 LAB
+
+unique				           Average Real Time
+------
+					unsorted	sorted
+Bible.txt				4.958		0.446
+Genesis.txt				0.106		0.027
+GreenEggsAndHam.txt			0.008		0.009
+HoundOfTheBaskervilles.txt		0.344		0.061
+Macbeth.txt				0.107		0.028
+TheCountOfMonteCristo.txt		4.584		0.462
+TheSecretGarden.txt			0.384		0.061
+TheWarOfTheWorlds.txt			0.436		0.080
+TreasureIsland.txt			0.392		0.077
+TwentyThousandLeagues.txt		0.859		0.133
+
+
+parity				  	   Average Real Time
+------
+					unosrted	sorted
+Bible.txt				58.884		5.845
+Genesis.txt				0.593		0.090
+GreenEggsAndHam.txt			0.009		0.009
+HoundOfTheBaskervilles.txt		2.243		0.318
+Macbeth.txt				0.467		0.084
+TheCountOfMonteCristo.txt		52.675		6.030
+TheSecretGarden.txt			2.562		0.386
+TheWarOfTheWorlds.txt			2.658		0.374
+TreasureIsland.txt			2.744		0.384
+TwentyThousandLeagues.txt		6.198		0.767
+
